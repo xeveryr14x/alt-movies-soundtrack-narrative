@@ -27,7 +27,8 @@ This project explores how we can model those emotions quantitatively, using soun
 - Slacker (1990)
 
 ## Credits
-Project by Yiran
+Project by Yiran Ren
+
 Built using data from IMDb, Spotify, and genre-based acoustic mappings.
 
 ## License
