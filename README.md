@@ -26,3 +26,9 @@ This project explores how we can model those emotions quantitatively, using soun
 - Ladies and Gentlemen, the Fabulous Stains (1982)
 - Slacker (1990)
 
+## Credits
+Project by Yiran
+Built using data from IMDb, Spotify, and genre-based acoustic mappings.
+
+## License
+This project is for academic/educational use only. Not affiliated with IMDb or Spotify.
