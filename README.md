@@ -2,9 +2,9 @@
 This project explores **emotional arcs and narrative structures** in cult and coming-of-age films with punk, anarchist, or nihilist elements — using their **soundtracks** as the emotional proxy.
 
 ## Motivation
-Movies tell stories through music. Especially when punk, alternative, and indie films often use raw, genre-driven soundtracks to shape emotional texture. At the end of the day, what do these rebellious movies convey to us? How do their narratives shape the values that impact the audience?
+Movies tell stories through music, especially in punk, alternative, and indie films, where raw, genre-driven soundtracks shape the emotional fabric of a scene. These rebellious films don’t just entertain; they push back, reflect angst, and speak to identity and disillusionment. But what exactly are they telling us? What values, moods, and messages are embedded in their soundscapes?
 
-This project explores how we can model that emotion quantitatively—using track metadata, inferred audio features (valence, energy, danceability, tempo), and time series analysis.
+This project explores how we can model those emotions quantitatively, using soundtrack metadata, inferred audio features (valence, energy, danceability, tempo), and time series analysis—to map the emotional arcs of cult and countercultural cinema.
 
 ## Features
 - 20 niche movie list curation (punk, anarchist, nihilist, urban decay, coming-of-age, indie, low-budget)
