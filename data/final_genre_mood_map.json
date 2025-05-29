@@ -1048,5 +1048,65 @@
         "energy": 0.5,
         "danceability": 0.6,
         "tempo": 100
-    }
+    },
+    "acid rock": {
+    "valence": 0.4,
+    "energy": 0.75,
+    "danceability": 0.4,
+    "tempo": 108
+  },
+  "ambient folk": {
+    "valence": 0.45,
+    "energy": 0.3,
+    "danceability": 0.35,
+    "tempo": 85
+  },
+  "electro": {
+    "valence": 0.65,
+    "energy": 0.8,
+    "danceability": 0.75,
+    "tempo": 120
+  },
+  "french house": {
+    "valence": 0.7,
+    "energy": 0.75,
+    "danceability": 0.8,
+    "tempo": 124
+  },
+  "indie folk": {
+    "valence": 0.55,
+    "energy": 0.4,
+    "danceability": 0.5,
+    "tempo": 100
+  },
+  "psychedelic rock": {
+    "valence": 0.5,
+    "energy": 0.6,
+    "danceability": 0.45,
+    "tempo": 102
+  },
+  "soul": {
+    "valence": 0.7,
+    "energy": 0.6,
+    "danceability": 0.7,
+    "tempo": 95
+  },
+  "space music": {
+    "valence": 0.3,
+    "energy": 0.2,
+    "danceability": 0.2,
+    "tempo": 60
+  },
+  "stoner metal": {
+    "valence": 0.25,
+    "energy": 0.85,
+    "danceability": 0.4,
+    "tempo": 92
+  },
+  "stoner rock": {
+    "valence": 0.35,
+    "energy": 0.75,
+    "danceability": 0.45,
+    "tempo": 95
+  }
 }
