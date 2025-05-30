@@ -39,10 +39,14 @@ The map below clusters 20 cult punk and indie films based on the emotional shape
 
 ## Results
 This project demonstrates that we can **decode a film’s emotional and narrative flow by analyzing the order and genre of its soundtracks**, even without watching the movie.
-# Soundtracks as Emotional Arcs
+
+**Soundtracks as Emotional Arcs**
 By mapping each track to valence, energy, danceability, and tempo (inferred from genres), and preserving the track order from the film, we created a quantitative emotional arc for each movie. These arcs visualize how a film moves through moods like tension, euphoria, melancholy, or chaos, often mirroring plot developments or character evolution.
 
 *In alternative and indie cinema, where storylines can be loose or nonlinear, the soundtrack often carries the emotional structure. This project treats that as a signal.*
+
+**Emotional Landscape via t-SNE**
+To visualize high-dimensional emotional arcs, I projected films into 2D space using t-SNE. This made it possible to see thematic proximity like how two movies with wildly different plots might share one similiar emotional rhythm.
 
 ## Credits
 Project by Yiran Ren (xeveryr14x@github)
