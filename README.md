@@ -4,7 +4,7 @@ This project explores **emotional arcs and narrative structures** in cult and co
 ## Motivation
 Movies tell stories through music, especially in punk, alternative, and indie films, where raw and genre-driven soundtracks shape the emotional fabric of a scene. These rebellious and emotionally rich (or introspective) films don’t just entertain; they push back, reflect angst, and speak to identity and disillusionment. But what exactly are they telling us? What values, moods, and messages are embedded in their soundscapes?
 
-This project explores how we can model those emotions quantitatively, using soundtrack metadata, inferred audio features (valence, energy, danceability, tempo), and time series analysis—to map the emotional arcs of cult and countercultural cinema.
+This project explores how we can model those emotions quantitatively, using soundtrack metadata, inferred audio features (valence, energy, danceability, tempo), and time series analysis to map the emotional arcs of cult and countercultural cinema. Much of the inspiration came from exploring films on [Tubi](https://tubitv.com/), whose unique catalog of punk, indie, and outsider stories helped shape the emotional lens of this work. 
 
 ## Emotional Landscape
 The map below clusters 20 cult punk and indie films based on the emotional shape of their soundtracks. Each point represents a film; clusters capture shared arcs and values, from “Detached Nihilism” to “Chaotic Surrealism”.
