@@ -40,6 +40,19 @@ The map below clusters 20 cult punk and indie films into **6 emotional archetype
 ## Results
 This project demonstrates that we can **decode a film’s emotional and narrative flow by analyzing the order and genre of its soundtracks**, even without watching the movie.
 
+**Clustering Results**
+🎥 Cluster Detached Nihilism: ['Ghost World', 'Permanent Record', 'The Doom Generation', 'Slacker']
+
+🎥 Cluster Rebel Without Resolution: ['SLC Punk', 'Suburbia (Penelope Spheeris)', 'Smithereens', 'Times Square', 'Kids', 'We Are the Best!', 'Mid90s']
+
+🎥 Cluster Outsider Bloom: ['Ladies and Gentlemen, The Fabulous Stains', 'Wild Tigers I Have Known']
+
+🎥 Cluster Lonely Drifter: ['My Own Private Idaho']
+
+🎥 Cluster Haunting Realism: ['SubUrbia (Linklater)', 'Out of the Blue', 'River’s Edge', 'Paranoid Park (Gus Van Sant)']
+
+🎥 Cluster Chaotic Surrealism: ['Gummo', 'Nowhere']
+
 **Soundtracks as Emotional Arcs**
 By mapping each track to valence, energy, danceability, and tempo (inferred from genres), and preserving the track order from the film, we created a quantitative emotional arc for each movie. These arcs visualize how a film moves through moods like tension, euphoria, melancholy, or chaos, often mirroring plot developments or character evolution.
 
@@ -50,7 +63,10 @@ To visualize high-dimensional emotional arcs, I projected films into 2D space us
 
 ## Visualizations
 **Feature Correlation**
-![t-SNE Projection](plots/correlation_matrix.png)
+![correlation_matrix](plots/correlation_matrix.png)
+
+**Feature Distributions**
+![feature_distribution](plots/audio_features_distribution.png)
 
 **Top3 Genres of each movie**
 ![Top3 Genres Per Movie](plots/top3_genres_per_movie.png)
