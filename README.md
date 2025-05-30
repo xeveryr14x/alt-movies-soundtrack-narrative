@@ -29,7 +29,7 @@ The map below clusters 20 cult punk and indie films based on the emotional shape
 
 
 ## Credits
-Project by Yiran Ren
+Project by Yiran Ren (xeveryr14x @github)
 
 Built using data from IMDb, Spotify, and genre-based acoustic mappings.
 
