@@ -20,20 +20,13 @@ The map below clusters 20 cult punk and indie films based on the emotional shape
 - IMDb soundtrack scraping and cleaning
 - Track title + artist extraction, including edge cases (e.g., remixers, missing performers)
 - Genre tagging (based on artist metadata through Spotify APIs)
-- Audio feature inference by genre using curated JSON mappings
+- Audio feature inference by genre using curated JSON mappings (183 music genres)
 - Normalization + time series interpolation of emotional features per film
-- Mood arc visualizations & PCA clustering of films
+- PCA & KMeans clustering optimization
+- Visualization using t-SNE 
 - Cluster-based analysis of emotional archetypes
 - Exported datasets and genre mappings
 
-## Sample Movies
-- SLC Punk! (1998)
-- Suburbia (1983 & 1996)
-- Smithereens (1982)
-- Ghost World (2001)
-- Nowhere (1997)
-- Ladies and Gentlemen, the Fabulous Stains (1982)
-- Slacker (1990)
 
 ## Credits
 Project by Yiran Ren
