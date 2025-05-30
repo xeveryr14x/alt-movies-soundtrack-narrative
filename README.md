@@ -1,5 +1,5 @@
-# punk-narrative-soundtrack
-This project explores **emotional arcs and narrative structures** in cult and coming-of-age films with punk, anarchist, or nihilist elements — using their **soundtracks** as the emotional proxy.
+# alt-movies-narrative-soundtrack
+This project explores **emotional arcs and narrative structures** in alternative or cult coming-of-age films with punk, anarchist, or nihilist elements — using their **soundtracks** as the emotional proxy.
 
 ## Motivation
 Movies tell stories through music, especially in punk, alternative, and indie films, where raw and genre-driven soundtracks shape the emotional fabric of a scene. These rebellious and emotionally rich (or introspective) films don’t just entertain; they push back, reflect angst, and speak to identity and disillusionment. But what exactly are they telling us? What values, moods, and messages are embedded in their soundscapes?
