@@ -42,7 +42,7 @@ This project demonstrates that we can **decode a film’s emotional and narrativ
 # Soundtracks as Emotional Arcs
 By mapping each track to valence, energy, danceability, and tempo (inferred from genres), and preserving the track order from the film, we created a quantitative emotional arc for each movie. These arcs visualize how a film moves through moods like tension, euphoria, melancholy, or chaos, often mirroring plot developments or character evolution.
 
-*In punk and indie cinema, where storylines can be loose or nonlinear, the soundtrack often carries the emotional structure. This project treats that as a signal.*
+*In alternative and indie cinema, where storylines can be loose or nonlinear, the soundtrack often carries the emotional structure. This project treats that as a signal.*
 
 ## Credits
 Project by Yiran Ren (xeveryr14x@github)
