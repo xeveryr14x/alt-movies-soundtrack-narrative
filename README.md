@@ -63,7 +63,7 @@ Cluster 0 – Detached Nihilism
 ![t-SNE Projection](plots/correlation_matrix.png)
 
 Cluster 1 – Rebel Without Resolution
-
+![t-SNE Projection](plots/correlation_matrix.png)
 Cluster 2 – Outsider Bloom
 
 Cluster 3 – Lonely Drifter
