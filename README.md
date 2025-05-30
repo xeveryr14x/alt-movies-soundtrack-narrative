@@ -9,7 +9,7 @@ This project explores how we can model those emotions quantitatively, using soun
 ## Emotional Landscape
 The map below clusters 20 cult punk and indie films based on the emotional shape of their soundtracks. Each point represents a film; clusters capture shared arcs and values, from “Detached Nihilism” to “Chaotic Surrealism”.
 
-![t-SNE Projection](plots/mood_arc_clusters_tsne.png)
+![t-SNE Projection](plots/tsne_projection_clusters.png)
 
 *Each cluster reveals a distinct narrative mood shaped by emotional dynamics in the soundtrack.*
 
