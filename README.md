@@ -53,7 +53,7 @@ To visualize high-dimensional emotional arcs, I projected films into 2D space us
 ![t-SNE Projection](plots/correlation_matrix.png)
 
 **Top3 Genres of each movie**
-![t-SNE Projection](plots/top3_genres_per_movie.png)
+![Top3 Genres Per Movie](plots/top3_genres_per_movie.png)
 
 **Clustered Emotional Archetypes via t-SNE**
 ![t-SNE Projection](plots/tsne_projection_clusters.png)
