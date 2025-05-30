@@ -15,7 +15,7 @@ The map below clusters 20 cult punk and indie films into **6 emotional archetype
 
 
 ## Features
-- 20 niche movie list curation (punk, anarchist, nihilist, urban decay, coming-of-age, indie, low-budget)
+- 20 niche movie list curation (coming-of-age, punk, anarchist, nihilist, suburbs, indie, low-budget)
 - IMDb soundtrack scraping and cleaning
 - Track title + artist extraction, including edge cases (e.g., remixers, missing performers)
 - Genre tagging (based on artist metadata through Spotify APIs)
