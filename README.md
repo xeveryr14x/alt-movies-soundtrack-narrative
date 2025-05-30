@@ -14,7 +14,6 @@ The map below clusters 20 cult punk and indie films based on the emotional shape
 *Each cluster reveals a distinct narrative mood shaped by emotional dynamics in the soundtrack.*
 
 
-
 ## Features
 - 20 niche movie list curation (punk, anarchist, nihilist, urban decay, coming-of-age, indie, low-budget)
 - IMDb soundtrack scraping and cleaning
@@ -27,6 +26,23 @@ The map below clusters 20 cult punk and indie films based on the emotional shape
 - Cluster-based analysis of emotional archetypes
 - Exported datasets and genre mappings
 
+## Cluster Description
+| Cluster Name                | Description |
+|----------------------------|-------------|
+| Detached Nihilism          | Emotionally flat, observational, ironic |
+| Rebel Without Resolution   | Punk identity vs. real-world collapse |
+| Outsider Bloom             | Queer/feminine identity through tender rebellion |
+| Lonely Drifter             | Poetic solitude and inward journeys |
+| Haunting Realism           | Slow-burn narratives with moral weight |
+| Chaotic Surrealism         | Fragmented, dreamlike, emotionally volatile |
+
+
+## Results
+This project demonstrates that we can **decode a film’s emotional and narrative flow by analyzing the order and genre of its soundtracks**, even without watching the movie.
+# Soundtracks as Emotional Arcs
+By mapping each track to valence, energy, danceability, and tempo (inferred from genres), and preserving the track order from the film, we created a quantitative emotional arc for each movie. These arcs visualize how a film moves through moods like tension, euphoria, melancholy, or chaos, often mirroring plot developments or character evolution.
+
+*In punk and indie cinema, where storylines can be loose or nonlinear, the soundtrack often carries the emotional structure. This project treats that as a signal.*
 
 ## Credits
 Project by Yiran Ren (xeveryr14x@github)
