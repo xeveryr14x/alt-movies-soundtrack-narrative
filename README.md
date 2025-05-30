@@ -48,6 +48,30 @@ By mapping each track to valence, energy, danceability, and tempo (inferred from
 **Emotional Landscape via t-SNE**
 To visualize high-dimensional emotional arcs, I projected films into 2D space using t-SNE. This made it possible to see thematic proximity like how two movies with wildly different plots might share one similiar emotional rhythm.
 
+## Visualizations
+**Feature Correlation**
+![t-SNE Projection](plots/correlation_matrix.png)
+
+**Top3 Genres of each movie**
+![t-SNE Projection](plots/top3_genres_per_movie.png)
+
+**Clustered Emotional Archetypes via t-SNE**
+![t-SNE Projection](plots/tsne_projection_clusters.png)
+
+**Average Mood Arcs by Cluster**
+Cluster 0 – Detached Nihilism
+![t-SNE Projection](plots/correlation_matrix.png)
+
+Cluster 1 – Rebel Without Resolution
+
+Cluster 2 – Outsider Bloom
+
+Cluster 3 – Lonely Drifter
+
+Cluster 4 – Haunting Realism
+
+Cluster 5 – Chaotic Surrealism
+
 ## Credits
 Project by Yiran Ren (xeveryr14x@github)
 
