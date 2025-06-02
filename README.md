@@ -1,4 +1,6 @@
 # alt-movies-narrative-soundtrack
+**Noisy Emotions: Mapping Youth Rebellion in Cult Film Soundtracks**
+
 This project explores **emotional arcs and narrative structures** in alternative or cult coming-of-age films with punk, anarchist, or nihilist elements, using their **soundtracks** as the emotional proxy.
 
 ## Motivation
