@@ -33,7 +33,7 @@ The map below clusters 20 cult punk and indie films into **6 emotional archetype
 |----------------------------|-------------|
 | Detached Nihilism          | Emotionally flat, observational, ironic |
 | Rebel Without Resolution   | Punk identity vs. real-world collapse |
-| Outsider Bloom             | Queer/feminine identity through tender rebellion |
+| Feminist & Queer Assertion | Queer/feminine identity through tender rebellion |
 | Lonely Drifter             | Poetic solitude and inward journeys |
 | Haunting Realism           | Slow-burn narratives with moral weight |
 | Chaotic Surrealism         | Fragmented, dreamlike, emotionally volatile |
@@ -48,7 +48,7 @@ This project demonstrates that we can **decode a film’s emotional and narrativ
 
 🎥 Cluster Rebel Without Resolution: ['SLC Punk', 'Suburbia (Penelope Spheeris)', 'Smithereens', 'Times Square', 'Kids', 'We Are the Best!', 'Mid90s']
 
-🎥 Cluster Outsider Bloom: ['Ladies and Gentlemen, The Fabulous Stains', 'Wild Tigers I Have Known']
+🎥 Cluster Feminist & Queer Assertion: ['Ladies and Gentlemen, The Fabulous Stains', 'Wild Tigers I Have Known']
 
 🎥 Cluster Lonely Drifter: ['My Own Private Idaho']
 
@@ -93,7 +93,7 @@ Cluster 1 – Rebel Without Resolution
 
 ![Cluster_1](plots/cluster_1.png)
 
-Cluster 2 – Outsider Bloom
+Cluster 2 – Feminist & Queer Assertion
 
 ![Cluster_2](plots/cluster_2.png)
 
