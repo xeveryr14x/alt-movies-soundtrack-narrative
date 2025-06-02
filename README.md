@@ -80,21 +80,27 @@ To visualize high-dimensional emotional arcs, I projected films into 2D space us
 
 **Average Mood Arcs by Cluster**
 Cluster 0 – Detached Nihilism
+
 ![Cluster_0](plots/cluster_0.png)
 
 Cluster 1 – Rebel Without Resolution
+
 ![Cluster_1](plots/cluster_1.png)
 
 Cluster 2 – Outsider Bloom
+
 ![Cluster_2](plots/cluster_2.png)
 
 Cluster 3 – Lonely Drifter
+
 ![Cluster_3](plots/cluster_3.png)
 
 Cluster 4 – Haunting Realism
+
 ![Cluster_4](plots/cluster_4.png)
 
 Cluster 5 – Chaotic Surrealism
+
 ![Cluster_5](plots/cluster_5.png)
 
 ## Credits
