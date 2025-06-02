@@ -65,6 +65,10 @@ By mapping each track to valence, energy, danceability, and tempo (inferred from
 To visualize high-dimensional emotional arcs, I projected films into 2D space using t-SNE. This made it possible to see thematic proximity like how two movies with wildly different plots might share one similiar emotional rhythm.
 
 ## Visualizations
+**Genre Analysis**
+
+![genres_all_movies](plots/genres_all_movies.png)
+
 **Feature Correlation**
 
 ![correlation_matrix](plots/correlation_matrix.png)
