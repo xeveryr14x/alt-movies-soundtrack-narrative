@@ -23,7 +23,7 @@ The map below clusters 20 cult punk and indie films into **6 emotional archetype
 - IMDb soundtrack scraping and cleaning
 - Track title + artist extraction, including edge cases (e.g., remixers, missing performers)
 - Genre tagging (based on artist metadata through Spotify APIs)
-- Audio feature inference by genre using curated JSON mappings (183 music genres)
+- Audio feature inference by genre using JSON mappings (183 music genres)
 - Normalization + time series interpolation of emotional features per film
 - PCA & KMeans clustering optimization
 - Visualization using t-SNE 
